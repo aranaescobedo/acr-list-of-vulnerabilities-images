@@ -30,4 +30,4 @@ SecurityResources
 	Remediation = properties.remediation,
       Status = status
 | order by ScanTime desc
-//| where Namespace == "<ADD-NAMESPACE-NAME>" POSSIBLE TO FILTER ON SPECIFIC NAMESPACE
+//| where Namespace == "<ADD-NAMESPACE-NAME>" //POSSIBLE TO FILTER ON SPECIFIC NAMESPACE
